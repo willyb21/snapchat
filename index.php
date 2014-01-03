@@ -39,7 +39,7 @@
         <p class="lead">Please enter your number to check whether do you belong from 4.6 millon of users whose accounts has been compromised. And understand whether your personal information is leaked or not</p>
         <form role="form">
 		  <div class="form-group">
-		    <label for="exampleInputEmail1"><a name="mynumber">Your Phone Number</a></label>
+		    <label for="exampleInputEmail1"><a name="mynumber" style="color: #fff; background: black;">Your Phone Number</a></label>
 		    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Your Phone Number">
 		  </div>
 		</form>  

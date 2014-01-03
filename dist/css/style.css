@@ -55,11 +55,25 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  background-image: url('../img/bc.png');
+  background-size: 100% 100%;
 }
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
 }
+.jumbotron h1 {
+	color: rgba(255,20,147,1);
+	text-shadow: 4px 1px 13px #000;
+	display: block;
+	
+}
+.jumbotron p {
+	color: rgba(255,255,255,1);
+	text-shadow: 4px 1px 13px #000;
+	
+}
+
 
 /* Supporting marketing content */
 .marketing {
